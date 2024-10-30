@@ -1,3 +1,12 @@
+satellite, 44772 STARLINK-1068 / US
+catalogue, 1 NORAD
+track, 17698356
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 587
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.401,5.22753,Clear,0,633.793,79.268,3
 0.10000000000582077,6.402,5.2306,Clear,0,634.137,79.297,3

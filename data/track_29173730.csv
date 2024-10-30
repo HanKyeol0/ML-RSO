@@ -1,3 +1,12 @@
+satellite, 56163 CHECKMATE 5 / US
+catalogue, 1 NORAD
+track, 29173730
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1109
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.378,7.94669,Clear,0,1044.316,51.22,7
 0.1000000000003638,8.202,7.77051,Clear,0,1044.135,51.25,7

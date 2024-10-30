@@ -1,3 +1,12 @@
+satellite, 22830 ARIANE 40 R/B / FR
+catalogue, 1 NORAD
+track, 15156091
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 582
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.967,4.49697,Clear,0,962.016,64.536,7
 0.09999999999854481,4.888,4.41723,Clear,0,961.619,64.552,7

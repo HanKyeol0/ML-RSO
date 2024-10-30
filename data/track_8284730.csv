@@ -1,3 +1,12 @@
+satellite, 22699 SCOUT G-1 R/B / US
+catalogue, 1 NORAD
+track, 8284730
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 984
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.681,9.13121,Clear,0,1518.002,58.233,7
 0.19999999999708962,8.42,8.86801,Clear,0,1516.938,58.25,7

@@ -1,3 +1,12 @@
+satellite, 39455 SHIYUAN 5 (SY-5) / PRC
+catalogue, 1 NORAD
+track, 24563938
+variability, 2 Periodic
+variability_period, 15.29082
+npoints, 664
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.308,7.21182,Clear,0,893.237,97.273,8
 0.10000000000582077,7.567,7.46981,Clear,0,892.977,97.232,8

@@ -1,3 +1,12 @@
+satellite, 47694 OBJECT D / PRC
+catalogue, 1 NORAD
+track, 19049580
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 643
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.52,6.58009,Clear,0,1111.578,80.087,9
 0.10000000000582077,6.497,6.55688,Clear,0,1111.619,80.074,9

@@ -1,3 +1,12 @@
+satellite, 5395 OV1-20/OV1-21 AKM / US
+catalogue, 1 NORAD
+track, 10416458
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 729
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.542,7.01611,Clear,0,979.765,55.83,7
 0.10000000000582077,7.546,7.0192,Clear,0,979.334,55.85,7

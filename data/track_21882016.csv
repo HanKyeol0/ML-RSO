@@ -1,3 +1,12 @@
+satellite, 27386 ENVISAT / ESA
+catalogue, 1 NORAD
+track, 21882016
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1162
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.246,3.94647,Clear,0,1021.478,67.805,3
 0.1000000000003638,4.182,3.88165,Clear,0,1021.04,67.783,3

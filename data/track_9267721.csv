@@ -1,3 +1,12 @@
+satellite, 29051 FORMOSAT 3E / ROC
+catalogue, 1 NORAD
+track, 9267721
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 644
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.549,9.24925,Clear,0,1136.174,108.734,2
 0.09999999999854481,8.674,9.37376,Clear,0,1135.851,108.727,2

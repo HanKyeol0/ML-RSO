@@ -1,3 +1,12 @@
+satellite, 57080 STARLINK-6243 / US
+catalogue, 1 NORAD
+track, 25992073
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 563
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.202,4.86185,Clear,0,682.174,52.995,3
 0.1000000000003638,6.159,4.82015,Clear,0,682.13,53.052,3

@@ -1,3 +1,12 @@
+satellite, 574 MIDAS 6 (FTV 1169) / US
+catalogue, 1 NORAD
+track, 17499884
+variability, 2 Periodic
+variability_period, 15.92796
+npoints, 1747
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.224,8.09194,Clear,0,4141.635,77.012,1
 0.10000000000582077,5.617,8.48518,Clear,0,4141.542,77.004,1

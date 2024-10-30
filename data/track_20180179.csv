@@ -1,3 +1,12 @@
+satellite, 40108 FALCON 9 R/B / US
+catalogue, 1 NORAD
+track, 20180179
+variability, 2 Periodic
+variability_period, 118.2124
+npoints, 2454
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,2.821,8.45147,Clear,0,14207.999,82.456,7
 0.09999999999854481,2.771,8.40176,Clear,0,14207.753,82.455,7

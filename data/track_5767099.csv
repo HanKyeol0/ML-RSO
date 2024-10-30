@@ -1,3 +1,12 @@
+satellite, 26374 TSX-5 / US
+catalogue, 1 NORAD
+track, 5767099
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1323
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.662,7.77488,Clear,0,1529.355,99.136,7
 0.09999999999854481,6.554,7.66607,Clear,0,1529.377,99.116,7

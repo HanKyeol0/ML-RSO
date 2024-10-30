@@ -1,3 +1,12 @@
+satellite, 4614 THORAD AGENA D DEB / US
+catalogue, 1 NORAD
+track, 12481847
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 717
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.725,8.55128,Clear,0,976.294,83.035,4
 0.10000000000582077,9.015,8.84186,Clear,0,976.472,83.076,4

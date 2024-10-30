@@ -1,3 +1,12 @@
+satellite, 25944 GLOBALSTAR M059 / GLOB
+catalogue, 1 NORAD
+track, 16309547
+variability, 2 Periodic
+variability_period, 14.792958
+npoints, 1021
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.786,7.65406,Clear,0,1700.764,72.365,5
 0.10000000000582077,6.777,7.6445,Clear,0,1700.766,72.342,5

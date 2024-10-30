@@ -1,3 +1,12 @@
+satellite, 42960 IRIDIUM 107 / US
+catalogue, 1 NORAD
+track, 19049380
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 561
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.483,4.83913,Clear,0,954.755,49.173,2
 0.09999999999854481,5.407,4.76282,Clear,0,954.908,49.193,2

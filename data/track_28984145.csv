@@ -1,3 +1,12 @@
+satellite, 19549 IUS R/B(1) / US
+catalogue, 1 NORAD
+track, 28984145
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 3170
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.304,8.78743,Clear,0,9525.862,62.363,3
 0.20000000000004547,4.594,9.07761,Clear,0,9526.623,62.367,3

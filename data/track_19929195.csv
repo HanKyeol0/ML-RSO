@@ -1,3 +1,12 @@
+satellite, 48134 STARLINK-2476 / US
+catalogue, 1 NORAD
+track, 19929195
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 612
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.619,6.04278,Clear,0,671.381,103.397,5
 0.1000000000003638,6.619,6.04367,Clear,0,671.665,103.437,5

@@ -1,3 +1,12 @@
+satellite, 8709 UME 1 (ISS 1) / JPN
+catalogue, 1 NORAD
+track, 1442346
+variability, 2 Periodic
+variability_period, 7.62584912
+npoints, 1162
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.746,8.49857,Clear,0,1622.472,118.364,1
 0.10000000000582077,6.626,8.37828,Clear,0,1621.949,118.346,1

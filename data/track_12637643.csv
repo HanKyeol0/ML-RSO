@@ -1,3 +1,12 @@
+satellite, 1520 CALSPHERE 4(A) / US
+catalogue, 1 NORAD
+track, 12637643
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 678
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.493,8.24894,Clear,0,1115.293,55.842,5
 0.10000000000582077,8.394,8.14894,Clear,0,1115.238,55.816,5

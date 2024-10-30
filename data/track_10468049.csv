@@ -1,3 +1,12 @@
+satellite, 40715 DMC 3-FM1 / UK
+catalogue, 1 NORAD
+track, 10468049
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 574
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.241,8.0598,Clear,0,796.707,104.361,1
 0.10000000000582077,8.269,8.08455,Clear,0,796.292,104.323,1

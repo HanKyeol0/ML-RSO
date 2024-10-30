@@ -1,3 +1,12 @@
+satellite, 10704 DELTA 1 R/B / US
+catalogue, 1 NORAD
+track, 12340839
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 638
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.044,6.64429,Clear,0,1466.012,76.143,4
 0.10000000000582077,5.951,6.55141,Clear,0,1466.092,76.118,4

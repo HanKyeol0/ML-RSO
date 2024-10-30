@@ -1,3 +1,12 @@
+satellite, 51103 CZ-2D R/B / PRC
+catalogue, 1 NORAD
+track, 25081625
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 902
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.291,3.29314,Clear,0,780.483,57.967,9
 0.10000000000582077,4.355,3.35715,Clear,0,780.316,58.013,9

@@ -1,3 +1,12 @@
+satellite, 28097 USA 173 DEB (NOSS 3-2 (C) ?) / US
+catalogue, 3 McCants
+track, 12538927
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1675
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.029,5.7079,Clear,0,1940.294,101.318,1
 0.10000000000582077,4.165,5.84412,Clear,0,1940.227,101.301,1

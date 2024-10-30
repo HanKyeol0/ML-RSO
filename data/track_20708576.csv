@@ -1,3 +1,12 @@
+satellite, 22196 IRIS R/B / IT
+catalogue, 1 NORAD
+track, 20708576
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 2844
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.584,8.418,Clear,0,2892.645,56.725,6
 0.10000000000582077,6.69,8.52345,Clear,0,2892.584,56.736,6

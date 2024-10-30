@@ -1,3 +1,12 @@
+satellite, 14781 OSCAR 11 (UoSAT 2) / UK
+catalogue, 1 NORAD
+track, 10606814
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 395
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.084,6.68542,Clear,0,671.186,50.347,9
 0.10000000000582077,8.025,6.62451,Clear,0,670.928,50.385,9

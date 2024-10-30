@@ -1,3 +1,12 @@
+satellite, 27453 NOAA 17 / US
+catalogue, 1 NORAD
+track, 10371607
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 969
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.164,5.33981,Clear,0,938.691,104.426,1
 0.1000000000003638,5.014,5.18931,Clear,0,938.362,104.403,1

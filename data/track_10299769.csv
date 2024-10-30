@@ -1,3 +1,12 @@
+satellite, 27597 ADEOS 2 / JPN
+catalogue, 1 NORAD
+track, 10299769
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 789
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.046,3.23132,Clear,0,1101.396,88.558,1
 0.1000000000003638,3.235,3.41847,Clear,0,1100.915,88.543,1

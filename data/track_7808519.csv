@@ -1,3 +1,12 @@
+satellite, 20479 DEBUT (ORIZURU) / JPN
+catalogue, 1 NORAD
+track, 7808519
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 518
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.839,9.66137,Clear,0,1750.621,63.805,5
 0.10000000000582077,8.181,9.00159,Clear,0,1750.569,63.783,5

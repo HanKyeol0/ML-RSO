@@ -1,3 +1,12 @@
+satellite, 1271 OPS 4988 (GREB 6) / US
+catalogue, 1 NORAD
+track, 23327097
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 720
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.533,7.10363,Clear,0,927.6,73.742,2
 0.1000000000003638,7.51,7.08172,Clear,0,927.599,73.762,2

@@ -1,3 +1,12 @@
+satellite, 25161 TAURUS DEB / US
+catalogue, 1 NORAD
+track, 12400222
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1145
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.525,7.25463,Clear,0,1123.114,51.544,9
 0.10000000000582077,7.514,7.24262,Clear,0,1122.842,51.578,9

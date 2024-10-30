@@ -1,3 +1,12 @@
+satellite, 35946 WORLDVIEW 2 / US
+catalogue, 1 NORAD
+track, 1295451
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 617
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.184,3.157,Clear,0,788.652,52.687,8
 0.10000000000582077,4.218,3.19111,Clear,0,788.519,52.739,8

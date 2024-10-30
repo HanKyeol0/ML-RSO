@@ -1,3 +1,12 @@
+satellite, 11080 NIMBUS 7 / US
+catalogue, 1 NORAD
+track, 18692264
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 872
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.53,7.87349,Clear,0,1158.289,91.162,9
 0.1000000000003638,7.368,7.71131,Clear,0,1158.005,91.152,9

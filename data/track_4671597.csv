@@ -1,3 +1,12 @@
+satellite, 28898 MOZ.5/SAFIR/RUBIN 5/SL-8 / GER
+catalogue, 1 NORAD
+track, 4671597
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 566
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.728,3.87605,Clear,0,1013.004,95.866,4
 0.09999999999854481,3.8,3.94617,Clear,0,1012.495,95.852,4

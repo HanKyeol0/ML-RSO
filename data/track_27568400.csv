@@ -1,3 +1,12 @@
+satellite, 55613 STARLINK-5715 / US
+catalogue, 1 NORAD
+track, 27568400
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 660
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.201,5.82593,Clear,0,608.24,71.618,6
 0.10000000000582077,7.48,6.1052,Clear,0,608.429,71.562,6

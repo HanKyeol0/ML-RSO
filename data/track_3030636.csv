@@ -1,3 +1,12 @@
+satellite, 1001 TITAN 3A TRANSTAGE R/B / US
+catalogue, 1 NORAD
+track, 3030636
+variability, 2 Periodic
+variability_period, 28.3843
+npoints, 1633
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.163,10.0197,Clear,0,4138.822,76.388,7
 1.6999999999970896,5.973,8.82828,Clear,0,4137.909,76.261,7

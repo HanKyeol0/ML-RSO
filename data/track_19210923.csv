@@ -1,3 +1,12 @@
+satellite, 25919 IKONOS 2 / US
+catalogue, 1 NORAD
+track, 19210923
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 519
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.213,6.73062,Clear,0,791.046,91.277,9
 0.09999999999126885,7.131,6.64864,Clear,0,790.823,91.307,9

@@ -1,3 +1,12 @@
+satellite, 1316 OPS 4682 DEB / US
+catalogue, 1 NORAD
+track, 10306917
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1090
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.031,6.66364,Clear,0,1409.608,83.571,3
 0.10000000000582077,5.928,6.55953,Clear,0,1409.291,83.559,3

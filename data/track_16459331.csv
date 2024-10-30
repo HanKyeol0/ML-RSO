@@ -1,3 +1,12 @@
+satellite, 23725 ASIASAT 2 PKM / PRC
+catalogue, 1 NORAD
+track, 16459331
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 726
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.454,8.41765,Clear,0,4921.129,54.301,7
 0.0999999999994543,5.694,8.65758,Clear,0,4920.689,54.307,7

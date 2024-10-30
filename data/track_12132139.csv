@@ -1,3 +1,12 @@
+satellite, 20978 DMSP 5D-2 F10 (USA 68) / US
+catalogue, 1 NORAD
+track, 12132139
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 529
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.388,6.16481,Clear,0,1289.073,100.703,1
 0.10000000000013642,5.467,6.24311,Clear,0,1288.511,100.684,1

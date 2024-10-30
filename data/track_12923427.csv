@@ -1,3 +1,12 @@
+satellite, 41179 ORBCOMM FM 114 / US
+catalogue, 1 NORAD
+track, 12923427
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 569
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.938,6.07863,Clear,0,838.242,56.402,3
 0.1000000000003638,6.908,6.04937,Clear,0,838.088,56.45,3

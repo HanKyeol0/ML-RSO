@@ -1,3 +1,12 @@
+satellite, 1244 GGSE 2 / US
+catalogue, 1 NORAD
+track, 18730377
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 876
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.885,8.67702,Clear,0,1302.06,100.402,6
 0.09999999999854481,8.074,8.86457,Clear,0,1301.621,100.398,6

@@ -1,3 +1,12 @@
+satellite, 39494 BREEZE-M R/B / None
+catalogue, 1 NORAD
+track, 25260177
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1919
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.985,8.13767,Clear,0,5958.122,18.216,9
 0.10000000000582077,5.098,8.25057,Clear,0,5958.248,18.223,9

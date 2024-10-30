@@ -1,3 +1,12 @@
+satellite, 7647 DIAMANT B-P4 R/B / FR
+catalogue, 1 NORAD
+track, 12437800
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1315
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.501,7.79717,Clear,0,1138.529,90.598,3
 0.09999999999126885,7.406,7.70203,Clear,0,1138.586,90.59,3

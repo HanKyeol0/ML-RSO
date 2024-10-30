@@ -1,3 +1,12 @@
+satellite, 4221 AZUR (GRS A) / GER
+catalogue, 1 NORAD
+track, 10547126
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 628
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.414,8.67268,Clear,0,1472.637,44.531,7
 0.20000000001164153,8.519,8.77734,Clear,0,1472.051,44.576,7

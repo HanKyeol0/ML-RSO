@@ -1,3 +1,12 @@
+satellite, 26064 FALCONSAT / US
+catalogue, 1 NORAD
+track, 2322789
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1015
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.481,8.44449,Clear,0,926.645,96.344,8
 0.09999999999990905,7.906,7.87108,Clear,0,926.836,96.353,8

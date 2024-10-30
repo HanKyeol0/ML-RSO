@@ -1,3 +1,12 @@
+satellite, 134 THOR ABLESTAR DEB / US
+catalogue, 1 NORAD
+track, 10832935
+variability, 2 Periodic
+variability_period, 26.9601915
+npoints, 927
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.894,9.1971,Clear,0,1194.175,85.346,1
 0.09999999999854481,9.15,9.45262,Clear,0,1193.953,85.37,1

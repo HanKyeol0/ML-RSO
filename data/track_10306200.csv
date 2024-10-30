@@ -1,3 +1,12 @@
+satellite, 39678 EGYPTSAT 2 / EGYP
+catalogue, 1 NORAD
+track, 10306200
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 924
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.49,4.52159,Clear,0,804.35,54.427,6
 0.09999999999854481,5.577,4.60905,Clear,0,804.662,54.393,6

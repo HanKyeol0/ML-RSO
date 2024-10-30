@@ -1,3 +1,12 @@
+satellite, 2682 DIAMANT R/B / FR
+catalogue, 1 NORAD
+track, 22551242
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 875
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.293,8.6326,Clear,0,1575.424,35.005,5
 0.1000000000003638,8.116,8.45635,Clear,0,1575.048,35.024,5

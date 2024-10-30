@@ -1,3 +1,12 @@
+satellite, 2657 ESSA 4 (TOS-B) / US
+catalogue, 1 NORAD
+track, 1862929
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 707
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.827,7.11914,Clear,0,2254.428,112.51,7
 0.09999999999990905,5.258,7.54871,Clear,0,2253.923,112.497,7

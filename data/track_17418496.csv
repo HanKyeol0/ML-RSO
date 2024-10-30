@@ -1,3 +1,12 @@
+satellite, 2401 OPS 2366 (TRANSIT 14) / US
+catalogue, 1 NORAD
+track, 17418496
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1297
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.22,6.3277,Clear,0,1139.684,79.701,3
 0.09999999999854481,6.203,6.30997,Clear,0,1139.464,79.68,3

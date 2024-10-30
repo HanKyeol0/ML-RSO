@@ -1,3 +1,12 @@
+satellite, 43437 SENTINEL 3B / ESA
+catalogue, 1 NORAD
+track, 17504834
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 553
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.392,4.04951,Clear,0,918.931,80.796,4
 0.10000000000582077,4.481,4.14018,Clear,0,919.125,80.84,4

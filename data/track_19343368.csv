@@ -1,3 +1,12 @@
+satellite, 43260 GAOFEN 1-03 / PRC
+catalogue, 1 NORAD
+track, 19343368
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 776
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.275,6.81236,Clear,0,771.617,94.927,4
 0.10000000000582077,7.355,6.89361,Clear,0,771.824,94.978,4

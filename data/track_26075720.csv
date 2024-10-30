@@ -1,3 +1,12 @@
+satellite, 57756 WILDFIRE 4 / US
+catalogue, 1 NORAD
+track, 26075720
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 965
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.763,6.27396,Clear,0,1011.597,52.471,3
 0.09999999999990905,6.687,6.19926,Clear,0,1011.819,52.469,3

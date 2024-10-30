@@ -1,3 +1,12 @@
+satellite, 1420 OPS 8480 (TRANSIT 5B-6) / US
+catalogue, 1 NORAD
+track, 3151851
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 586
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.508,8.47907,Clear,0,1452.618,97.75,9
 0.09999999999854481,7.311,8.28163,Clear,0,1452.591,97.758,9

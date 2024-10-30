@@ -1,3 +1,12 @@
+satellite, 28095 USA 173 (NOSS 3-2 (A) ?) / US
+catalogue, 3 McCants
+track, 10880707
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1082
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.72,5.263,Clear,0,2020.056,90.713,4
 0.09999999999854481,3.844,5.38684,Clear,0,2020.01,90.729,4

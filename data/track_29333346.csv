@@ -1,3 +1,12 @@
+satellite, 49420 STARLINK-3110 / US
+catalogue, 1 NORAD
+track, 29333346
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 531
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.414,6.28935,Clear,0,571.509,94.431,3
 0.09999999999990905,7.218,6.09435,Clear,0,571.621,94.457,3

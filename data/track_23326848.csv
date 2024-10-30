@@ -1,3 +1,12 @@
+satellite, 47258 ONEWEB-0102 / UK
+catalogue, 1 NORAD
+track, 23326848
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 824
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.465,9.14356,Clear,0,1456.264,82.125,5
 0.1000000000003638,8.455,9.1339,Clear,0,1455.912,82.124,5

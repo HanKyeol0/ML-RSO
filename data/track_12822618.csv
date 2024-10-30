@@ -1,3 +1,12 @@
+satellite, 45 TRANSIT 2A / US
+catalogue, 1 NORAD
+track, 12822618
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 915
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.309,6.79667,Clear,0,926.457,67.71,6
 0.09999999999854481,7.257,6.74376,Clear,0,926.553,67.684,6

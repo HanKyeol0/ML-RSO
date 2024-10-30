@@ -1,3 +1,12 @@
+satellite, 37818 TACSAT 4 / US
+catalogue, 1 NORAD
+track, 8290873
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1391
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.856,9.28426,Clear,0,4862.631,89.504,1
 0.09999999999126885,6.017,9.44351,Clear,0,4862.21,89.501,1

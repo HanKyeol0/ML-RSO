@@ -1,3 +1,12 @@
+satellite, 35937 STSS DEMO 1 (USA 208) / US
+catalogue, 3 McCants
+track, 23506257
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1014
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.932,5.3314,Clear,0,1396.666,69.261,3
 0.09999999999990905,4.87,5.26899,Clear,0,1396.507,69.268,3

@@ -1,3 +1,12 @@
+satellite, 38771 METOP-B / EUME
+catalogue, 1 NORAD
+track, 21245816
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 881
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.91,3.24019,Clear,0,967.502,42.392,7
 0.09999999999854481,3.835,3.16509,Clear,0,967.349,42.432,7

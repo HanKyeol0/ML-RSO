@@ -1,3 +1,12 @@
+satellite, 6217 OPS 8180 (STP RADSAT) / US
+catalogue, 1 NORAD
+track, 18289310
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1011
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.046,5.99362,Clear,0,933.792,94.789,3
 0.09999999999854481,5.974,5.92107,Clear,0,933.327,94.782,3

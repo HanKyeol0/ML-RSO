@@ -1,3 +1,12 @@
+satellite, 43010 FENGYUN 3D / PRC
+catalogue, 1 NORAD
+track, 18058238
+variability, 2 Periodic
+variability_period, 1.79837982
+npoints, 213
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.002,4.12313,Clear,0,995.271,96.426,1
 0.09999999999126885,4.043,4.16259,Clear,0,994.934,96.391,1

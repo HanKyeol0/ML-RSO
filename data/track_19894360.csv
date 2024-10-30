@@ -1,3 +1,12 @@
+satellite, 6218 ATLAS F BURNER 2 R/B / US
+catalogue, 1 NORAD
+track, 19894360
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 579
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.657,7.3836,Clear,0,768.545,103.795,9
 0.20000000000436557,7.743,7.47035,Clear,0,768.571,103.797,9

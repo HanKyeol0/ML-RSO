@@ -1,3 +1,12 @@
+satellite, 8352 N-1 R/B / JPN
+catalogue, 1 NORAD
+track, 7686562
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 700
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.192,8.33397,Clear,0,1451.997,31.401,2
 0.10000000000013642,7.933,8.07446,Clear,0,1451.581,31.422,2

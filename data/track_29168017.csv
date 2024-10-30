@@ -1,3 +1,12 @@
+satellite, 47800 STARLINK-2381 / US
+catalogue, 1 NORAD
+track, 29168017
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 954
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.139,5.82548,Clear,0,721.555,41.47,7
 0.09999999999990905,7.052,5.73815,Clear,0,721.136,41.515,7

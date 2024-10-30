@@ -1,3 +1,12 @@
+satellite, 446 ANNA 1B / US
+catalogue, 1 NORAD
+track, 16012465
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 853
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.706,6.82412,Clear,0,1138.922,80.401,3
 0.10000000000582077,6.734,6.85155,Clear,0,1138.942,80.398,3

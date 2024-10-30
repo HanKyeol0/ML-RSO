@@ -1,3 +1,12 @@
+satellite, 7003 AUREOLE 2 / FR
+catalogue, 1 NORAD
+track, 12450431
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 647
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.407,5.38824,Clear,0,745.403,64.964,9
 0.10000000000582077,6.282,5.26357,Clear,0,745.388,65.02,9

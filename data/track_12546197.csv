@@ -1,3 +1,12 @@
+satellite, 2422 THOR BURNER 2 R/B / US
+catalogue, 1 NORAD
+track, 12546197
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 727
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.262,7.7956,Clear,0,870.253,80.42,1
 0.10000000000582077,7.942,7.47534,Clear,0,870.044,80.393,1

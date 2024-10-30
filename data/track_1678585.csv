@@ -1,3 +1,12 @@
+satellite, 27003 BADR B / PAKI
+catalogue, 1 NORAD
+track, 1678585
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 938
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.555,8.05653,Clear,0,1323.41,83.92,7
 0.09999999999990905,7.532,8.03344,Clear,0,1323.016,83.927,7

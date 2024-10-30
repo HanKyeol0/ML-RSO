@@ -1,3 +1,12 @@
+satellite, 38337 GCOM W1 / JPN
+catalogue, 1 NORAD
+track, 8273937
+variability, 2 Periodic
+variability_period, 1.5028497
+npoints, 820
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.792,5.03626,Clear,0,919.705,108.832,1
 0.10099999999511056,4.881,5.12339,Clear,0,919.251,108.796,1

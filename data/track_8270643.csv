@@ -1,3 +1,12 @@
+satellite, 899 EXPLORER 22 / US
+catalogue, 1 NORAD
+track, 8270643
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 667
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.678,6.91338,Clear,0,1167.979,84.192,4
 0.10000000000582077,6.761,6.99516,Clear,0,1167.834,84.161,4

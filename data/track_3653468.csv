@@ -1,3 +1,12 @@
+satellite, 7688 TITAN 34B R/B / US
+catalogue, 1 NORAD
+track, 3653468
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 2109
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.633,10.3859,Clear,0,12525.408,102.369,9
 0.1000000000003638,3.862,9.61479,Clear,0,12525.652,102.369,9

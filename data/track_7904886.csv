@@ -1,3 +1,12 @@
+satellite, 29657 H-2A R/B / JPN
+catalogue, 1 NORAD
+track, 7904886
+variability, 2 Periodic
+variability_period, 42.52909248
+npoints, 2761
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.637,8.25839,Clear,0,11027.435,43.282,4
 0.09999999999126885,3.324,7.94454,Clear,0,11027.69,43.282,4

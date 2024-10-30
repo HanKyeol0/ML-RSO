@@ -1,3 +1,12 @@
+satellite, 23940 TOMS EP / US
+catalogue, 1 NORAD
+track, 10378647
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 755
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.271,6.84259,Clear,0,826.544,89.076,9
 0.10000000000582077,7.184,6.75611,Clear,0,826.586,89.103,9

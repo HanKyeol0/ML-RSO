@@ -1,3 +1,12 @@
+satellite, 28058 CHUANG XIN 1 (CZ-1) / PRC
+catalogue, 1 NORAD
+track, 18853024
+variability, 2 Periodic
+variability_period, 23.9282259
+npoints, 1016
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.239,7.21807,Clear,0,763.976,60.151,1
 0.09999999999854481,8.286,7.26545,Clear,0,764.115,60.182,1

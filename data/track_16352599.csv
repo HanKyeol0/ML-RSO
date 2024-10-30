@@ -1,3 +1,12 @@
+satellite, 37765 SJ-11-02 / PRC
+catalogue, 1 NORAD
+track, 16352599
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 783
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.45,5.34441,Clear,0,1136.507,64.663,2
 0.1000000000003638,5.581,5.47273,Clear,0,1135.969,64.65,2

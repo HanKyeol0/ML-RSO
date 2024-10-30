@@ -1,3 +1,12 @@
+satellite, 21949 USA 81 / US
+catalogue, 1 NORAD
+track, 5125007
+variability, 2 Periodic
+variability_period, 1.21295736
+npoints, 897
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.145,5.22699,Clear,0,1120.515,122.365,2
 0.10000000000582077,4.308,5.38911,Clear,0,1120.119,122.356,2

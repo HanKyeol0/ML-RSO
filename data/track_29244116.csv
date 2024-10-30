@@ -1,3 +1,12 @@
+satellite, 58912 GEESAT 2-08 / PRC
+catalogue, 1 NORAD
+track, 29244116
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 627
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.79,6.38032,Clear,0,901.929,79.095,6
 0.09999999999126885,6.966,6.55473,Clear,0,901.417,79.078,6

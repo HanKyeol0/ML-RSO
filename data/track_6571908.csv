@@ -1,3 +1,12 @@
+satellite, 25746 USA 144 DEB / US
+catalogue, 3 McCants
+track, 6571908
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 981
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.699,6.70784,Clear,0,3351.17,39.686,7
 0.20000000001164153,3.362,5.37133,Clear,0,3351.487,39.692,7

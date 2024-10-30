@@ -1,3 +1,12 @@
+satellite, 40053 SPOT 7 / FR
+catalogue, 1 NORAD
+track, 10376594
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 799
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.874,5.25544,Clear,0,775.158,86.29,4
 0.10000000000582077,5.839,5.22171,Clear,0,775.463,86.337,4

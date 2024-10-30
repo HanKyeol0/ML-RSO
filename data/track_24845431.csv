@@ -1,3 +1,12 @@
+satellite, 32264 GLOBALSTAR M070 / GLOB
+catalogue, 1 NORAD
+track, 24845431
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1459
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.128,6.87114,Clear,0,1513.638,80.864,3
 0.09999999999126885,6.23,6.97218,Clear,0,1513.509,80.839,3

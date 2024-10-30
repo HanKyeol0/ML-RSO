@@ -1,3 +1,12 @@
+satellite, 47727 STARLINK-2129 / US
+catalogue, 1 NORAD
+track, 20844906
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 597
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.197,6.10566,Clear,0,695.173,71.117,2
 0.09999999999126885,7.201,6.11039,Clear,0,694.955,71.166,2

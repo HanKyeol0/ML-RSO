@@ -1,3 +1,12 @@
+satellite, 23324 IRS P2 R/B / IND
+catalogue, 1 NORAD
+track, 8042936
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 711
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.405,7.35759,Clear,0,951.819,92.955,8
 0.09999999999990905,7.406,7.35654,Clear,0,951.534,92.916,8

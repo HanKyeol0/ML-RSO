@@ -1,3 +1,12 @@
+satellite, 871 SCOUT X-4 R/B / US
+catalogue, 1 NORAD
+track, 8173631
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 941
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.787,6.25305,Clear,0,1652.765,106.891,6
 0.09999999999126885,4.649,6.11365,Clear,0,1652.316,106.871,6

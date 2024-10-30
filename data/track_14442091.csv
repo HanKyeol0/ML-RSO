@@ -1,3 +1,12 @@
+satellite, 117 SOLRAD 3/INJUN 1 / US
+catalogue, 1 NORAD
+track, 14442091
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 919
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.334,7.95748,Clear,0,976.941,69.321,3
 0.1000000000003638,8.472,8.09602,Clear,0,976.88,69.337,3

@@ -1,3 +1,12 @@
+satellite, 37387 RESOURCESAT 2 / IND
+catalogue, 1 NORAD
+track, 8111939
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 934
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.762,5.08118,Clear,0,972.091,39.31,2
 0.09999999999126885,5.777,5.09455,Clear,0,971.777,39.349,2

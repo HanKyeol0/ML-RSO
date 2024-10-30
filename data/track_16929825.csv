@@ -1,3 +1,12 @@
+satellite, 44796 CZ-3B R/B / PRC
+catalogue, 1 NORAD
+track, 16929825
+variability, 2 Periodic
+variability_period, 24.68823795
+npoints, 609
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.369,8.43537,Clear,0,9030.6,21.176,3
 0.10000000000582077,4.307,8.37258,Clear,0,9030.305,21.176,3

@@ -1,3 +1,12 @@
+satellite, 31115 BEIDOU M1 / PRC
+catalogue, 1 NORAD
+track, 17984279
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1059
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,2.737,9.58353,Clear,0,23395.254,89.941,6
 0.10000000000582077,2.636,9.48293,Clear,0,23395.284,89.942,6

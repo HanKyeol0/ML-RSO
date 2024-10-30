@@ -1,3 +1,12 @@
+satellite, 43915 YUNHAI 2 6 / PRC
+catalogue, 1 NORAD
+track, 15996606
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 669
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.74,6.20374,Clear,0,823.321,83.53,7
 0.09999999999126885,6.78,6.24452,Clear,0,823.442,83.562,7

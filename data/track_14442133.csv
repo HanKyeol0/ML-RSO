@@ -1,3 +1,12 @@
+satellite, 36121 YAOGAN 8 / PRC
+catalogue, 1 NORAD
+track, 14442133
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 653
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.082,6.56602,Clear,0,1312.606,83.929,5
 0.0999999999994543,5.981,6.46514,Clear,0,1312.598,83.92,5

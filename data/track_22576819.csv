@@ -1,3 +1,12 @@
+satellite, 49060 KL-BETA B / GER
+catalogue, 1 NORAD
+track, 22576819
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 889
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.805,7.22694,Clear,0,939.636,59.51,8
 0.09999999999854481,7.923,7.34355,Clear,0,939.466,59.51,8

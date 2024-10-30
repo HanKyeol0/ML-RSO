@@ -1,3 +1,12 @@
+satellite, 46469 HAIYANG 2C / PRC
+catalogue, 1 NORAD
+track, 18813241
+variability, 2 Periodic
+variability_period, 3.78935772
+npoints, 848
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.191,4.78057,Clear,0,1033.222,55.892,3
 0.09999999999854481,5.22,4.81022,Clear,0,1033.105,55.87,3

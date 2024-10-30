@@ -1,3 +1,12 @@
+satellite, 53109 AVUM R/B / TBD
+catalogue, 1 NORAD
+track, 23544753
+variability, 2 Periodic
+variability_period, 4.940173968
+npoints, 1169
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.755,9.38362,Clear,0,6464.914,61.283,1
 0.09999999999854481,6.135,9.76443,Clear,0,6464.93,61.278,1

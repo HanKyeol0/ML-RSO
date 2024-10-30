@@ -1,3 +1,12 @@
+satellite, 14506 OPS 1294 (DMSP 5D-2 F7) / US
+catalogue, 1 NORAD
+track, 22616531
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 690
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.548,5.2326,Clear,0,915.113,82.967,9
 0.1000000000003638,5.497,5.18034,Clear,0,914.77,82.947,9

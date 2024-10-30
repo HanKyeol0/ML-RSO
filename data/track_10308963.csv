@@ -1,3 +1,12 @@
+satellite, 27942 UK-DMC / UK
+catalogue, 1 NORAD
+track, 10308963
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 538
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,9.079,9.19294,Clear,0,982.239,97.413,2
 0.1000000000003638,9.666,9.77756,Clear,0,981.727,97.412,2

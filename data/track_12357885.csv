@@ -1,3 +1,12 @@
+satellite, 226 TIROS 4 / US
+catalogue, 1 NORAD
+track, 12357885
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 695
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.209,8.17089,Clear,0,900.646,99.078,3
 0.10000000000582077,9.126,9.08814,Clear,0,900.544,99.093,3

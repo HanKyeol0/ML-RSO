@@ -1,3 +1,12 @@
+satellite, 26065 ASUSAT / US
+catalogue, 1 NORAD
+track, 10514200
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 999
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.269,6.83434,Clear,0,1002.758,113.649,1
 0.10000000000582077,6.104,6.66679,Clear,0,1002.286,113.617,1

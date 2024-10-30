@@ -1,3 +1,12 @@
+satellite, 38038 ZY 1 / PRC
+catalogue, 1 NORAD
+track, 19227504
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 709
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.692,5.49348,Clear,0,1263.738,22.803,9
 0.10000000000582077,5.716,5.5169,Clear,0,1263.281,22.826,9

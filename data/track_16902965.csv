@@ -1,3 +1,12 @@
+satellite, 2825 THOR AGENA D R/B / US
+catalogue, 1 NORAD
+track, 16902965
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1223
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.464,5.60204,Clear,0,1388.03,108.826,6
 0.09999999999854481,4.577,5.71465,Clear,0,1388.216,108.817,6

@@ -1,3 +1,12 @@
+satellite, 959 OPS 6582 (TRANSIT 5E-5) / US
+catalogue, 1 NORAD
+track, 19513696
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1310
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.605,8.46581,Clear,0,1296.137,103.761,1
 0.10000000000002274,7.207,8.0667,Clear,0,1296.13,103.739,1

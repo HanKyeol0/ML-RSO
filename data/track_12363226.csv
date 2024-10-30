@@ -1,3 +1,12 @@
+satellite, 2621 OV1-10 R/B / US
+catalogue, 1 NORAD
+track, 12363226
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 720
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.702,7.33478,Clear,0,987.482,68.247,2
 0.10000000000582077,7.812,7.44447,Clear,0,987.469,68.291,2

@@ -1,3 +1,12 @@
+satellite, 39475 ATLAS 5 CENTAUR R/B / US
+catalogue, 1 NORAD
+track, 12517709
+variability, 2 Periodic
+variability_period, 42.0
+npoints, 670
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,2.773,2.17815,Clear,0,871.739,71.504,9
 0.10000000000582077,2.8,2.20605,Clear,0,871.818,71.553,9

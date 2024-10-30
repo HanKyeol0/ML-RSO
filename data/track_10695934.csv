@@ -1,3 +1,12 @@
+satellite, 9841 TANSEI 3 (MS-T3) / JPN
+catalogue, 1 NORAD
+track, 10695934
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 847
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.755,10.2241,Clear,0,3383.336,79.605,9
 0.3000000000029104,7.148,9.61821,Clear,0,3383.498,79.631,9

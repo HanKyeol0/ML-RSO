@@ -1,3 +1,12 @@
+satellite, 44344 DSX / US
+catalogue, 1 NORAD
+track, 18911394
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 739
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.703,9.75698,Clear,0,12285.567,63.948,3
 0.20000000000436557,4.716,9.76988,Clear,0,12285.525,63.945,3

@@ -1,3 +1,12 @@
+satellite, 5557 OPS 4311 (DMSP 5B F1) / US
+catalogue, 1 NORAD
+track, 28408948
+variability, 2 Periodic
+variability_period, 24.9030936
+npoints, 730
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.386,7.64319,Clear,0,1394.38,57.408,2
 0.09999999999126885,7.374,7.63016,Clear,0,1393.962,57.428,2

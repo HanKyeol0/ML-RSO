@@ -1,3 +1,12 @@
+satellite, 38109 USA 234 (FIA Radar 2 ?) / US
+catalogue, 3 McCants
+track, 12343668
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1025
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,3.779,3.87373,Clear,0,1141.129,78.728,4
 0.10000000000582077,3.784,3.88017,Clear,0,1141.165,78.749,4

@@ -1,3 +1,12 @@
+satellite, 25482 ORBCOMM FM 28 / ORB
+catalogue, 1 NORAD
+track, 10443222
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 769
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.518,6.76043,Clear,0,927.208,42.923,7
 0.09999999999999432,7.564,6.80595,Clear,0,926.92,42.958,7

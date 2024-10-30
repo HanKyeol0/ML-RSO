@@ -1,3 +1,12 @@
+satellite, 41898 TANSAT / PRC
+catalogue, 1 NORAD
+track, 12341058
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 591
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.5,5.59556,Clear,0,892.92,105.571,1
 0.09999999999126885,5.491,5.58454,Clear,0,892.579,105.532,1

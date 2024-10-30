@@ -1,3 +1,12 @@
+satellite, 8311 THORAD DELTA 1 DEB / US
+catalogue, 1 NORAD
+track, 9414687
+variability, 2 Periodic
+variability_period, 28.29200985
+npoints, 1539
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.704,9.29631,Clear,0,1605.418,60.131,3
 0.2000000000007276,8.377,8.96789,Clear,0,1605.052,60.105,3

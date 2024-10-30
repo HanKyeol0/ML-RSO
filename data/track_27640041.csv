@@ -1,3 +1,12 @@
+satellite, 54699 SHIYAN 20A (SY-20A) / PRC
+catalogue, 1 NORAD
+track, 27640041
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 730
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,5.196,6.1811,Clear,0,1243.004,111.998,6
 0.09999999999854481,5.242,6.22622,Clear,0,1243.003,111.982,6

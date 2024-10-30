@@ -1,3 +1,12 @@
+satellite, 2418 OPS 6026 (DMSP 4A F1) / US
+catalogue, 1 NORAD
+track, 12209874
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1328
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,8.096,8.84476,Clear,0,1159.754,108.883,3
 0.10000000000582077,7.469,8.21678,Clear,0,1159.205,108.874,3

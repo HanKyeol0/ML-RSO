@@ -1,3 +1,12 @@
+satellite, 23465 FAISAT / US
+catalogue, 1 NORAD
+track, 8757350
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 871
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.99,8.2093,Clear,0,1355.679,59.611,2
 0.1000000000003638,8.145,8.36277,Clear,0,1355.244,59.617,2

@@ -1,3 +1,12 @@
+satellite, 49114 RSW-02 / PRC
+catalogue, 1 NORAD
+track, 19658096
+variability, 0 Not variable
+variability_period, 0.0
+npoints, 638
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,4.95,6.07784,Clear,0,1329.901,111.893,9
 0.0999999999994543,4.89,6.0187,Clear,0,1329.906,111.902,9

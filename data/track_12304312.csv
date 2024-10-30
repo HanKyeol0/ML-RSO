@@ -1,3 +1,12 @@
+satellite, 730 SOLRAD 7A / US
+catalogue, 1 NORAD
+track, 12304312
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 835
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.217,7.10913,Clear,0,1180.278,57.193,5
 0.09899999999970532,7.19,7.08263,Clear,0,1180.198,57.227,6

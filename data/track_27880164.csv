@@ -1,3 +1,12 @@
+satellite, 192 MIDAS 4 / US
+catalogue, 1 NORAD
+track, 27880164
+variability, 2 Periodic
+variability_period, 38.688
+npoints, 1069
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.538,9.43307,Clear,0,3858.06,87.884,4
 0.1000000000003638,6.139,9.03351,Clear,0,3857.902,87.88,4

@@ -1,3 +1,12 @@
+satellite, 3510 OPS 4078 (DMSP 4B F2) / US
+catalogue, 1 NORAD
+track, 10348192
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 697
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.8,8.60191,Clear,0,1271.984,103.033,1
 0.19999999999708962,8.15,8.94963,Clear,0,1270.922,103.015,1

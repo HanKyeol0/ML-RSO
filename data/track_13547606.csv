@@ -1,3 +1,12 @@
+satellite, 19071 OSCAR 32 / US
+catalogue, 1 NORAD
+track, 13547606
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 1296
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.253,9.03284,Clear,0,1707.4,115.654,2
 0.09999999999854481,7.452,9.2322,Clear,0,1707.605,115.653,2

@@ -1,3 +1,12 @@
+satellite, 25484 PEGASUS R/B(2) HAPS / US
+catalogue, 1 NORAD
+track, 15607354
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 888
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.321,6.49999,Clear,0,887.194,47.048,6
 0.10000000000582077,7.581,6.75969,Clear,0,887.254,47.073,6

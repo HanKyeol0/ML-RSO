@@ -1,3 +1,12 @@
+satellite, 37832 NOAA 12 DEB / US
+catalogue, 1 NORAD
+track, 6431130
+variability, 2 Periodic
+variability_period, 2.741475825
+npoints, 528
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,7.61,6.82211,Clear,0,925.11,39.376,9
 0.09999999999854481,6.877,6.08747,Clear,0,924.883,39.384,9

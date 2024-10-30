@@ -1,3 +1,12 @@
+satellite, 25977 HELIOS 1B / FR
+catalogue, 1 NORAD
+track, 18240513
+variability, 1 Aperiodic
+variability_period, 0.0
+npoints, 711
+#,
+Date Time StdMag Mag Filter Penumbra Distance Phase Channel,
+
 Time,StdMag,Mag,Filter,Penumbra,Distance,Phase,Channel
 0.0,6.252,5.38678,Clear,0,674.122,89.382,7
 0.1000000000003638,6.205,5.33994,Clear,0,674.105,89.397,7
